@@ -1,7 +1,7 @@
 {
-  "name": "outinz",
+  "name": "node-ts-template",
   "version": "0.0.0",
-  "description": "outinz api",
+  "description": "node-ts-template",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
